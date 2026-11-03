@@ -1,6 +1,5 @@
 import { useMemo, useState } from 'react';
 import type { FormEvent, ReactNode } from 'react';
-import type { FormEvent, ReactNode } from 'react';
 import { Link, NavLink, Route, Routes, useNavigate, useParams } from 'react-router-dom';
 import { ArrowRight, Award, BookOpen, BriefcaseBusiness, CheckCircle2, ChevronDown, Clock3, Code2, GraduationCap, Laptop, MapPin, Menu, MessageCircle, Phone, Search, ShieldCheck, Sparkles, Star, Users, X, Globe2, LayoutDashboard, Bell, UserRound, FileText, Image as ImageIcon, Settings, LogOut, Plus, Download, Filter, CalendarDays, ChartNoAxesCombined } from 'lucide-react';
 import { branches, categories, courses, demoEnquiries, demoStudents } from './data';
